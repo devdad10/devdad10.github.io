@@ -25,7 +25,7 @@ title: Home
       {% endif %}
   </span>
 
-  {{ site.posts.last.content | split:"<!-- more -->" | first % }}
+  {{ site.posts.last.content | split:" more " | first % }}
 
   <div class="codinfox-post-more">
       <a href="{{ post.url }}#disqus_thread">Comment</a>&nbsp;
