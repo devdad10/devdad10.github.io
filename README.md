@@ -1,3 +1,3 @@
-Added Disqus, MathJax and Google Analytics.
+Added Disqus and Google Analytics.
 
 Changed typesetting of blog to enhance readability.
