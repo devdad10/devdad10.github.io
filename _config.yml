@@ -12,13 +12,13 @@ permalink:           pretty
 title:            Codinfox
 tagline:          'Learning to be Giant.'
 description:      'Blog of YourName. Here are some technical stuff. Some notes about development.'
-url:              http://codinfox.github.io
+url:              https://codinfox.github.io
 
 author:
   name:           'Dev Dad'
   url:            http://codinfox.github.io
   gravatar:       https://en.gravatar.com/devdad
-  photo:          http://2.gravatar.com/avatar/00000000000000000000000000000000?size=350
+  photo:          https://2.gravatar.com/avatar/00000000000000000000000000000000?size=350
   introduction:   'Some introduction words that will be displayed under the avatar. You may include HTML <a href="#">here</a>.'
 
 paginate:         5
