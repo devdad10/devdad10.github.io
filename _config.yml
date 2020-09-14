@@ -18,7 +18,7 @@ author:
   name:           'Dev Dad'
   gravatar:       0a4e753d3924937dd747b9f38f1418a6 # md5 hash of your email address
 #  photo:          ''
-  introduction:   'Hello, I won't be sharing much information here. You may include HTML <a href="#">here</a>.'
+  introduction:   'Hello, I will not share much information here. You may include HTML <a href="#">here</a>.'
 
 paginate:         5
 paginate_path:    '/blog/page:num'
