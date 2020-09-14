@@ -15,9 +15,9 @@ description:      'Blog of YourName. Here are some technical stuff. Some notes a
 url:              http://codinfox.github.io
 
 author:
-  name:           'Your Name'
+  name:           'Dev Dad'
   url:            http://codinfox.github.io
-  gravatar:       https://en.gravatar.com/yourname
+  gravatar:       https://en.gravatar.com/devdad
   photo:          http://2.gravatar.com/avatar/00000000000000000000000000000000?size=350
   introduction:   'Some introduction words that will be displayed under the avatar. You may include HTML <a href="#">here</a>.'
 
