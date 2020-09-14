@@ -7,30 +7,3 @@ title: Home
   <img src="/public/imgs/milford-sound.jpg" />
   <p>Photo by <a href="https://unsplash.com/@johnnyabroad">Jean-Pierre Brungs</a></p>
 </div>
-
-<div class="post">
-  <h1 class="post-title">
-      <a href="{{ site.posts.last.url }}">
-          {{ site.posts.last.title }}
-      </a>
-  </h1>
-
-  <span class="post-date">
-      {{ site.posts.last.date | date_to_string }}
-      {% if site.posts.last.tags != empty %}
-      |
-      {% for tag in site.posts.last.tags %}
-      <a class="codinfox-tag-mark" href="/blog/tag/#{{ tag | slugify }}">{{ tag }}</a>
-      {% endfor %}
-      {% endif %}
-  </span>
-
-  {{ site.posts.last.content | split:" more " | first % }}
-
-  <div class="codinfox-post-more">
-      <a href="{{ post.url }}#disqus_thread">Comment</a>&nbsp;
-      <a href="{{ post.url }}">Read more</a>
-  </div>
-  <hr/>
-
-</div>
