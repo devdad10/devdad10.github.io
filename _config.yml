@@ -1,5 +1,5 @@
 # Dependencies
-markdown:            redcarpet
+markdown:            kramdown
 highlighter:         rouge
 
 # Permalinks
@@ -15,7 +15,7 @@ description:      'Blog of YourName. Here are some technical stuff. Some notes a
 url:              https://devdad10.github.io
 
 author:
-  name:           'Dev Dad'
+  name:           Dev Dad
   url:            http://devdad10.github.io
   gravatar:       https://en.gravatar.com/devdad10
   photo:          https://2.gravatar.com/avatar/00000000000000000000000000000000?size=350
