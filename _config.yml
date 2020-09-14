@@ -1,10 +1,10 @@
 # Site Info
 title: Dev Dad Blog
-tagline: 'Confessions of a Failed Entrepreneur'
+tagline: 'Entrepreneur Fail Confessions'
 description: 'A Jekyll theme adapted from Lanyon.'
 baseurl: ''
 url: https://devdad10.github.io
-logo: 'https://devdad10.github.io/public/logo.png'
+logo: https://devdad10.github.io/public/logo.png
 
 # Site configurations
 gems:
