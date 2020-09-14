@@ -61,9 +61,10 @@ a.codinfox-profile-photo>img {
     margin: 0;
 }
 
-.codinfox-index-bg {
+.devdad-index-bg {
     text-align: center;
     font-size: 0.75rem;
+    clip-path: polygon(20% 0%, 80% 0%, 100% 100%, 0% 100%);
 }
 div.codinfox-index-bg>img {
     height: 28rem;
