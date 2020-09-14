@@ -17,7 +17,7 @@ url:              https://devdad10.github.io
 author:
   name:           'Dev Dad'
 #  gravatar:       0a4e753d3924937dd747b9f38f1418a6 # md5 hash of your email address
-  gravatar:       'https://en.gravatar.com/devdad10'
+gravatar:         https://en.gravatar.com/devdad10 # //www.gravatar.com/avatar/0a4e753d3924937dd747b9f38f1418a6?s=350
 #  photo:          ''
   introduction:   'Hello, I will not share much information here. You may include HTML <a href="#">here</a>.'
 
