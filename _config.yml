@@ -16,7 +16,7 @@ url:              https://devdad10.github.io
 
 author:
   name:           'Dev Dad'
-  url:            https://devdad10.github.io
+  url:            http://devdad10.github.io
   gravatar:       https://en.gravatar.com/devdad
   photo:          https://2.gravatar.com/avatar/00000000000000000000000000000000?size=350
   introduction:   'Some introduction words that will be displayed under the avatar. You may include HTML <a href="#">here</a>.'
